@@ -1,0 +1,13 @@
+# Ignore .env files
+.env
+
+# Ignore Go build files
+/bin
+/obj
+*.exe
+*.test
+*.out
+
+# Ignore Go module files (optional, only if you don't want them in version control)
+/vendor
+go.sum
